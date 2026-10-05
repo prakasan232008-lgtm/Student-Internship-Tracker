@@ -1,3 +1,4 @@
+package src;
 public class Internship {
 
     int studentId;
