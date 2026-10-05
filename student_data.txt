@@ -1,9 +1,12 @@
 [STUDENTS]
 101|AKSHAYA|aksh23@gmal.com|COMPUTER SCIENCE AND ENGINEERING
 102|KAVYA|kav@gmail.com|INFORMATION TECHNOLOGY
+5353|prakasan|prakasan232008@gmail.com|COMPUTER SCIENCE AND ENGINEERING
 [SKILLS]
 101|FULL STACK DEVELOPMENT|Advanced
 102|JAVA|Intermediate
+5353|PYTHON|Intermediate
 [INTERNSHIPS]
 101|ZOHO|Full Stack Developer|Interview|6
 102|TCS|Java Intern|Shortlisted|3
+5353|ZOHO|Python Intern|Selected|6
